@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class homework1 {
     public static void main(String[] args) {
-        // 1.	 Write an application that displays a box, an oval, an arrow and a diamond using asterisk (*) as follows: (Hint: System.out.println();)
+        // 1. Write an application that displays a box, an oval, an arrow and a diamond using asterisk (*) as follows: (Hint: System.out.println();)
         System.out.println("------------------------------------------------------------------------");
         System.out.println("   ************          ****             *                *      ");
         System.out.println("   *          *         *    *           ***              ***      ");
